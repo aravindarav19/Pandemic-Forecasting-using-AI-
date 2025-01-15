@@ -22,7 +22,7 @@ This project focuses on forecasting the progression of the COVID-19 pandemic usi
 ---
 
 #### Files in the Repository:  
-1. **Msc_project.ipynb**: Jupyter Notebook containing the complete codebase for the GCNN and LSTM models.
+1. **GCNN AND LSTM MODEL .ipynb**: Jupyter Notebook containing the complete codebase for the GCNN and LSTM models.
 2. **Dissertation.pdf**: The complete dissertation providing the theoretical and experimental foundation of the project.
 3. **README.md**: This file.
 
@@ -68,12 +68,12 @@ This project focuses on forecasting the progression of the COVID-19 pandemic usi
 ---
 
 #### How to Run the Code:  
-1. Clone the repository or download the `Msc_project.ipynb`.  
+1. Clone the repository or download the `GCNN AND LSTM MODEL .ipynb`.  
 2. Install required libraries via pip:  
    ```bash
    pip install numpy pandas matplotlib torch torch-geometric scikit-learn
    ```
-3. Run the Jupyter Notebook (`Msc_project.ipynb`) for step-by-step execution.  
+3. Run the Jupyter Notebook (`GCNN AND LSTM MODEL .ipynb`) for step-by-step execution.  
    - Ensure you have a compatible GPU for faster GCNN training.  
 
 ---
